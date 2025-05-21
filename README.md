@@ -11,15 +11,15 @@ FastAPI to serve a RESTful API for querying
 
 Postman or any client to test the API
 
- Features
- --Load and split PDFs using PyPDFLoader
+🚀 Features
+📄 Load and split PDFs using PyPDFLoader
 
- --Extract data from websites
+🌐 Extract data from websites
 
- --Embed documents using all-MiniLM-L6-v2 via HuggingFaceEmbeddings
+💡 Embed documents using all-MiniLM-L6-v2 via HuggingFaceEmbeddings
 
- --Store and search embeddings using ChromaDB
+⚡ Store and search embeddings using ChromaDB
 
- --Query via a FastAPI endpoint
+🌐 Query via a FastAPI endpoint
 
- Clean and modular code (RAG logic separated from API)
+✅ Clean and modular code (RAG logic separated from API)
